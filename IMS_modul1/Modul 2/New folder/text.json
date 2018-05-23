@@ -1,0 +1,11 @@
+[
+    {
+        "id_transaksi": 1,
+        "nama_member": "Pande Made Yudi Pratistha",
+        "no_transaksi": "11wwweer11",
+        "status_transaksi": "pending",
+        "updated_at": "2018-05-21 23:50:15",
+        "status_json": "update",
+        "status_sinkron": true
+    }
+]

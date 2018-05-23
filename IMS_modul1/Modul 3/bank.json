@@ -1,0 +1,26 @@
+[
+    {
+        "id_transaksi": 10,
+        "nama_member": "aweaweawea",
+        "no_transaksi": null,
+        "status_transaksi": "pending",
+        "tanggal_transaksi": "2018-05-23 01:37:20",
+        "updated_at": "2018-05-23 01:37:20",
+        "status_json": "insert",
+        "status_sinkron": true
+    },
+    {
+        "id_transaksi": 10,
+        "nama_member": "aweaweawea",
+        "no_transaksi": "waaaw",
+        "status_transaksi": "pending",
+        "updated_at": "2018-05-23 01:37:55",
+        "status_json": "update",
+        "status_sinkron": true
+    },
+    {
+        "id_transaksi": 10,
+        "status_json": "delete",
+        "status_sinkron": true
+    }
+]

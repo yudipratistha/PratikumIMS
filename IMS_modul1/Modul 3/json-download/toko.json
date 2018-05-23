@@ -1,0 +1,11 @@
+[
+    {
+        "id_transaksi": 4,
+        "nama_member": "Karang Yudha",
+        "no_transaksi": "awe1231",
+        "status_transaksi": "pending",
+        "updated_at": "2018-05-23 01:12:42",
+        "status_json": "update",
+        "status_sinkron": true
+    }
+]

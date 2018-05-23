@@ -1,0 +1,5 @@
+ALTER TABLE whatevertable
+     CHANGE whatevercolumn 
+            whatevercolumn TIMESTAMP NOT NULL
+                           DEFAULT CURRENT_TIMESTAMP 
+                           ON UPDATE CURRENT_TIMESTAMP;

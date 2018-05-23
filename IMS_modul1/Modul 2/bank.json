@@ -1,0 +1,11 @@
+[
+    {
+        "id_transaksi": 15,
+        "nama_member": "rede",
+        "no_transaksi": "awe",
+        "status_transaksi": "pending",
+        "updated_at": "2018-05-23 09:33:18",
+        "status_json": "update",
+        "status_sinkron": false
+    }
+]
